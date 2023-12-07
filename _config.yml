@@ -11,9 +11,9 @@ title                    : "Junjie Gao"
 title_separator          : "-"
 name                     : &name "Junjie Gao"
 description              : &description "Algorithm Engineer, JD Technology, Beijing, China."
-url                      : https://zepolas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://junjie-g.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zepolas/zepolas.github.io"
+repository               : "junjie-g/junjie-g.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zepolas"
+  github           : "junjie-g"
   google_plus      :
   keybase          :
   instagram        :
